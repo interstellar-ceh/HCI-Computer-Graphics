@@ -14,7 +14,7 @@ This repo contains all the assignments and class tasks for this course.
 | Folder | Description |
 |---|---|
 | [`assignment-1`](./assignment-1) | HCI & CG Mini Task — deconstructing a 3D interactive app into its Human-Computer Interaction (HCI) and Computer Graphics (CG) elements, with annotated screenshots and reflection questions. |
-| [`assignment-2`](./assignment-2) | Key Terms in Computer Graphics — written explanations of 10 core CG concepts (Pixel, Resolution, PPI, Aspect Ratio, Frame Buffer, Color Depth, Monochrome, Frame Rate, Raster vs. Vector Graphics, Image Compression). |
+| [`assignment-2`](./assignment-2) | Key Terms in Computer Graphics — written explanations of 10 core CG concepts (Pixel, Resolution, PPI, Aspect Ratio, Frame Buffer, Color Depth, Monochrome, Frame Rate, Raster vs. Vector Graphics, Image Formation). |
 | [`assignment-3`](./assignment-3) | Applied CG tasks in Python — short scripts and outputs exploring topics such as frame buffers, image channels, and color/alpha handling. |
 | [`example-tasks`](./example-tasks) | These are the implementation of the examples done in the lecture slides. |
 
